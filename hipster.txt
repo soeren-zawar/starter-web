@@ -8,3 +8,7 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
  good for? (Engineer at the Advanced Computing Systems Division of IBM, commenting on the microchip, 1968) Software suppliers are trying to make their 
  software packages more ‘user-friendly’… Their best approach so far has been to take all the old brochures and stamp the words ‘user-friendly’ on the 
  cover. (Bill Gates)
+ 
+ Only don't tell me you're innocent. Because it insults my intelligence and makes me very angry.
+ 
+ Some stupid change
